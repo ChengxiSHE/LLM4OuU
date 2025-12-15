@@ -1,0 +1,5 @@
+The civil affairs department needs to plan weekly funeral service allocation for California for the next 52 weeks. 
+The decision variable is the weekly number of funeral service capacity units to allocate. 
+The objective is to minimize the total cost, comprising service operational cost (120 currency units per unit) and capacity insufficiency penalty cost (5000 currency units per unserved death case). 
+The weekly service allocation must satisfy: minimum of 4000 units and maximum of 5500 units. 
+The weekly observed COVID-19 death count is uncertain, based on historical mortality data.

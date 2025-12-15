@@ -1,0 +1,1 @@
+This data is a 6×1 vector representing the electricity consumption per 10 minutes of the hour.

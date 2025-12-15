@@ -1,0 +1,5 @@
+The company Yulu needs to optimize the daily rental bike operations in India, where the demand for rented bikes varies each day based on historical data.
+The decision variable is the number of bikes to allocate for rent each workday.
+The objective is to minimize the total operational cost, which includes holding costs and shortage cost, both with equal weight coefficients of 0.5 in the objective function.
+The number of rented bikes each day should be a non-negative integer.
+The daily rental demand is uncertain, based on historical rental data, which reflects variability in customer demand.

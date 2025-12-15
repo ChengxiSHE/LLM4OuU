@@ -1,0 +1,1 @@
+This dataset describes the minimum demand for a certain medical resource in a hospital, consisting of 365 rows and 4 columns. Each row represents the demand for a corresponding date. Except for the last column which represents the demand, all other columns represent the time dimension, including date, month and year.

@@ -1,0 +1,5 @@
+The power plant needs to plan its power generation per 10 minutes to meet uncertain consumption levels.
+The decision variable is the planned power generation level for every 10 minutes for the next hour.
+The objective is to minimize the total cost of power generation and potential shortages, with generation cost weighted by 0.8 and shortage cost by 0.2.
+The generation level per 10 minutes must be non-negative.
+The power consumption per 10 minutes is uncertain, based on historical patterns.

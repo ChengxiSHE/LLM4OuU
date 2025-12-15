@@ -1,0 +1,1 @@
+This data is a 12×1 vector representing the monthly material consumption of the year.

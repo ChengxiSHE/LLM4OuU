@@ -1,0 +1,1 @@
+T-shirt retailers need to decide the amount of T-shirt to store for each day of the following week. Usually, retailers need to weigh two losses: inventory overflow or inability to fully meet user needs, and both have the same proportion in the objective function, with a weight coefficient of 1. Additionally, the demand for T-shirt is unknown.

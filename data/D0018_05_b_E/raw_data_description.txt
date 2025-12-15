@@ -1,0 +1,3 @@
+This dataset describes the daily traffic flow, comprising
+366 rows and 4 columns. Each row represents the traffic flow on the corresponding date.
+Except for the last column representing traffic flow, all other columns represent time dimensions, including day, month, and year.

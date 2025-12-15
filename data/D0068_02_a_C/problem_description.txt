@@ -1,0 +1,5 @@
+The power station must determine daily power generation to meet uncertain consumption while minimizing operational costs.  
+The decision variable is the daily power generation amount, planned for each day of the upcoming month.
+The objective is to minimize total cost, comprising generation cost (weight 1) and penalty for deviation from actual consumption (weight 0.5).
+Daily generation must be non-negative.
+The actual daily power consumption is uncertain.

@@ -1,0 +1,5 @@
+The power plant needs to schedule daily power generation to meet uncertain demand based on uncertain power availability.  
+The decision variable is the daily power generation amount, planned for each day of the upcoming month.
+The objective is to minimize total generation cost, with overuse weighted at 5 and underuse penalties weighted at 3.
+Daily generation must be at least the historical minimum consumption of 192.3 to ensure basic supply reliability.
+The actual daily power consumption is uncertain, based on historical data patterns.

@@ -1,0 +1,2 @@
+A city must decide the number of traffic police officers to deploy daily to manage road congestion. The decision variable is the number of officers scheduled each day for the next month. The objective is to minimize total cost, with a surplus cost coefficient of 1 for overstaffing and an inefficiency penalty coefficient of 3 for shortage from actual requirements. The daily number of officers deployed must be non-negative. The actual daily traffic flow is uncertain.
+

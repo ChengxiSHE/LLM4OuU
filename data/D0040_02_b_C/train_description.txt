@@ -1,0 +1,1 @@
+The empirical data consists of a 6-row, 23-column data matrix. Each row represents 10 minutes, and each column represents an hour. Therefore, each data point corresponds to the electricity consumption per 10 minutes for a specific hour of the day.

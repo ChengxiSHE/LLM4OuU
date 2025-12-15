@@ -1,0 +1,1 @@
+This data is a 4×1 vector representing the specificized weekly highest prices are applicable for each year and each month.

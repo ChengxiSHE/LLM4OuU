@@ -1,0 +1,1 @@
+This data is a 30×1 vector representing the actual daily number of arriving patients for each day of the most recent 30-day period.

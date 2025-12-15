@@ -1,0 +1,2 @@
+This dataset describes the daily supply chain expenditure situation of a hospital, consisting of 365 rows and 4 columns. Each row represents the supply chain expenditure for the corresponding date.
+Apart from the last column which represents the supply chain expenditure, all other columns represent the time dimension, including date, month and year.

@@ -1,0 +1,1 @@
+This data is a 30×1 vector representing the open price for each day of the month.

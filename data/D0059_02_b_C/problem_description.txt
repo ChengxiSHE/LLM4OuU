@@ -1,0 +1,5 @@
+The power station must plan daily power generation to meet uncertain consumption while minimizing costs.  
+The decision variable is the daily power generation amount in next 30 days.
+The objective is to minimize the total cost, comprising a generation cost coefficient of $80 per MWh and a penalty coefficient of $100 per MWh for any shortage.
+The daily generation must be non-negative.
+The daily power consumption is uncertain and derived from historical data.

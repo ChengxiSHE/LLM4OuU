@@ -1,0 +1,5 @@
+The power station must determine its daily power generation to meet uncertain demand while minimizing costs.  
+The decision variable is the daily power generation level, planned for the next 30 days.
+The objective is to minimize total cost, with a linear function combining generation cost (weight 5) and shortage penalty (weight 2).
+Daily generation must be non-negative and not exceed the station's maximum capacity of 10 MWh.
+The daily power consumption demand is uncertain, based on historical data.

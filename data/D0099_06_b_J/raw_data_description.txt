@@ -1,0 +1,1 @@
+This dataset contains new daily confirmed male COVID-19 patients in South Korea from KCDC,comprising 120 rows and 4 columns.Each row represents new daily confirmed male patients on the corresponding date. Except for the last column representing new daily confirmed male patients, all other columns represent time dimensions, including day, month, and year.

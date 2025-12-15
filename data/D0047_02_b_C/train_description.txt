@@ -1,0 +1,1 @@
+The empirical data consists of a 30-row, 6-column data matrix. Each row represents a day, and each column represents a month. Therefore, each data point corresponds to the daily electricity consumption for a specific month and day of the year.

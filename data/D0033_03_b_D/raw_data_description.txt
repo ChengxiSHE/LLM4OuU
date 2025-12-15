@@ -1,0 +1,1 @@
+This dataset provides the latest prices of a certain fast-moving consumer goods, consisting of 365 rows and 4 columns. Each row represents the latest price for the corresponding date. Apart from the last column which represents the latest prices, all other columns represent the time dimension, including date, month and year.

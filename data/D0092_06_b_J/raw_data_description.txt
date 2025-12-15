@@ -1,0 +1,1 @@
+This dataset contains daily hospital operational records, comprising 200 rows and 4 columns. Each row represents the total number of patients entering the hospital daily on the corresponding date. Except for the last column representing the total number of patients entering the hospital daily, all other columns represent time dimensions, including day, month, and year.

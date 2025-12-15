@@ -1,0 +1,3 @@
+This dataset describes the daily demands of a hotel, comprising
+335 rows and 4 columns. Each row represents the demands on the corresponding date.
+Except for the last column representing demands, all other columns represent time dimensions, including day, month, and year.

@@ -1,0 +1,46 @@
+Beetroot Planting Optimization Results
+==================================================
+
+Problem Parameters:
+  Number of weeks: 4
+  Max planting area per week: 50 hectares
+  Yield per hectare: 10 tons
+  Number of price scenarios: 45
+
+Real Prices:
+  Week 1: 107.86
+  Week 2: 91.45
+  Week 3: 89.07
+  Week 4: 102.05
+
+Results Summary:
+
+Gamma = 0.0:
+  Robust Value: 47300.37
+  Actual Profit: 195215.49
+  Decision Loss: -147915.13
+  Planting Areas: ['50.00', '50.00', '50.00', '50.00']
+
+Gamma = 0.25:
+  Robust Value: 40751.58
+  Actual Profit: 195215.49
+  Decision Loss: -154463.91
+  Planting Areas: ['50.00', '50.00', '50.00', '50.00']
+
+Gamma = 0.5:
+  Robust Value: 34202.80
+  Actual Profit: 195215.49
+  Decision Loss: -161012.69
+  Planting Areas: ['50.00', '50.00', '50.00', '50.00']
+
+Gamma = 0.75:
+  Robust Value: 27654.02
+  Actual Profit: 195215.49
+  Decision Loss: -167561.47
+  Planting Areas: ['50.00', '50.00', '50.00', '50.00']
+
+Gamma = 1.0:
+  Robust Value: 21105.24
+  Actual Profit: 195215.49
+  Decision Loss: -174110.26
+  Planting Areas: ['50.00', '50.00', '50.00', '50.00']

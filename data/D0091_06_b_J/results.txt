@@ -1,0 +1,118 @@
+============================================================
+COVID-19 TESTING RESOURCE ALLOCATION RESULTS
+============================================================
+
+1. OPTIMAL TEST ALLOCATION (30 DAYS):
+----------------------------------------
+Day  1:  147.0 test kits
+Day  2:  100.0 test kits
+Day  3:  229.0 test kits
+Day  4:  169.0 test kits
+Day  5:  231.0 test kits
+Day  6:  144.0 test kits
+Day  7:  284.0 test kits
+Day  8:  505.0 test kits
+Day  9:  571.0 test kits
+Day 10:  800.0 test kits
+Day 11:  586.0 test kits
+Day 12:  476.0 test kits
+Day 13:  600.0 test kits
+Day 14:  516.0 test kits
+Day 15:  438.0 test kits
+Day 16:  518.0 test kits
+Day 17:  483.0 test kits
+Day 18:  367.0 test kits
+Day 19:  248.0 test kits
+Day 20:  131.0 test kits
+Day 21:  242.0 test kits
+Day 22:  114.0 test kits
+Day 23:  110.0 test kits
+Day 24:  107.0 test kits
+Day 25:  100.0 test kits
+Day 26:  110.0 test kits
+Day 27:  100.0 test kits
+Day 28:  100.0 test kits
+Day 29:  152.0 test kits
+Day 30:  100.0 test kits
+
+2. COST BREAKDOWN:
+----------------------------------------
+Total Testing Cost:    438,900.00 currency units
+Total Penalty Cost:    0.00 currency units
+Total Cost:            438,900.00 currency units
+
+3. DAILY LOSSES (TESTING + PENALTY):
+----------------------------------------
+Day  1: 7,350.00 currency units
+Day  2: 5,000.00 currency units
+Day  3: 11,450.00 currency units
+Day  4: 8,450.00 currency units
+Day  5: 11,550.00 currency units
+Day  6: 7,200.00 currency units
+Day  7: 14,200.00 currency units
+Day  8: 25,250.00 currency units
+Day  9: 28,550.00 currency units
+Day 10: 40,000.00 currency units
+Day 11: 29,300.00 currency units
+Day 12: 23,800.00 currency units
+Day 13: 30,000.00 currency units
+Day 14: 25,800.00 currency units
+Day 15: 21,900.00 currency units
+Day 16: 25,900.00 currency units
+Day 17: 24,150.00 currency units
+Day 18: 18,350.00 currency units
+Day 19: 12,400.00 currency units
+Day 20: 6,550.00 currency units
+Day 21: 12,100.00 currency units
+Day 22: 5,700.00 currency units
+Day 23: 5,500.00 currency units
+Day 24: 5,350.00 currency units
+Day 25: 5,000.00 currency units
+Day 26: 5,500.00 currency units
+Day 27: 5,000.00 currency units
+Day 28: 5,000.00 currency units
+Day 29: 7,600.00 currency units
+Day 30: 5,000.00 currency units
+
+4. REAL CASES VS ALLOCATED TESTS:
+----------------------------------------
+Day   Real Cases   Tests Allocated   Undetected
+----------------------------------------
+  1           65             147.0            0
+  2           53             100.0            0
+  3           65             229.0            0
+  4           60             169.0            0
+  5           56             231.0            0
+  6           59             144.0            0
+  7           58             284.0            0
+  8           52             505.0            0
+  9           61             571.0            0
+ 10           63             800.0            0
+ 11           65             586.0            0
+ 12           65             476.0            0
+ 13           57             600.0            0
+ 14           55             516.0            0
+ 15           48             438.0            0
+ 16           58             518.0            0
+ 17           58             483.0            0
+ 18           58             367.0            0
+ 19           76             248.0            0
+ 20           63             131.0            0
+ 21           56             242.0            0
+ 22           70             114.0            0
+ 23           60             110.0            0
+ 24           49             107.0            0
+ 25           62             100.0            0
+ 26           56             110.0            0
+ 27           58             100.0            0
+ 28           70             100.0            0
+ 29           64             152.0            0
+ 30           63             100.0            0
+
+5. DATA INFORMATION:
+----------------------------------------
+Training data shape: (30, 4)
+Test data shape: (30, 1)
+Number of scenarios used: 4
+
+Detailed results saved to: data/D0091_06_b_J/results_summary.xlsx

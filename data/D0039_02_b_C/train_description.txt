@@ -1,0 +1,1 @@
+The empirical data consists of a 10-row, 82-column data matrix. Each row represents a household, and each column represents a day. Therefore, each data point corresponds to the daily consumption of each household.

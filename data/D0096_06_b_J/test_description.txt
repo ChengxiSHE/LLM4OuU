@@ -1,0 +1,1 @@
+This data is a 52×1 vector representing the weekly Alabama COVID-19 mortality statistics for each week of the most recent 52-week period.

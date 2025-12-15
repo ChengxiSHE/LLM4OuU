@@ -1,0 +1,2 @@
+A retail company must determine daily order quantities for a fast-moving consumer good to manage inventory effectively. The decision variable is the daily order quantity, which must be planned for the upcoming 365 days.
+The objective is to minimize total daily costs, comprising holding and shortage costs, with both assigned equal weight coefficients of 1. The daily order quantity must be non-negative to ensure feasible procurement. The daily sales volume is uncertain, influencing the cost outcomes directly.

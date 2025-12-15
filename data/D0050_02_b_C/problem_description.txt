@@ -1,0 +1,5 @@
+The power plant needs to plan daily power generation to meet uncertain consumption demands while minimizing operational costs.  
+The decision variable is the daily power generation quantity in the upcoming month.  
+The objective is to minimize total generation cost, with linear generation cost (weight 3) and shortage penalty (weight 2).  
+Daily generation must be non-negative and cannot exceed the plant's maximum capacity of 300 MWh.  
+The daily power consumption is uncertain and derived from historical data patterns.

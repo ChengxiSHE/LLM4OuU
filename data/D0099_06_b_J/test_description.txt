@@ -1,0 +1,1 @@
+This data is a 30×1 vector representing the daily new confirmed male COVID-19 cases for each day of the most recent 30-day period.

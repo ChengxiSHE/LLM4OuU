@@ -1,0 +1,34 @@
+DRO-KL Hotel Staffing Optimization Results
+==================================================
+
+Problem Parameters:
+- Number of days: 30
+- Surplus cost coefficient: 1.0
+- Shortage penalty coefficient: 1.0
+- KL-divergence radius (epsilon): 0.1
+
+Data Statistics:
+- Empirical data shape: (29, 1)
+- Empirical mean demand: 699.87
+- Empirical std demand: 150.34
+
+Optimization Results:
+- Total objective value: 2448.47
+- Average daily staffing: 716.67
+- Average actual demand: 699.87
+- Average daily loss: 81.62
+
+Daily Results:
+Day	Staffing	Demand	Loss
+----------------------------------------
+1	716.67	12.00	704.67
+2	716.67	716.67	0.00
+3	716.67	784.46	67.79
+4	716.67	692.04	24.63
+5	716.67	629.85	86.83
+6	716.67	762.36	45.69
+7	716.67	615.69	100.98
+8	716.67	809.83	93.15
+9	716.67	723.05	6.38
+10	716.67	761.31	44.64
+...

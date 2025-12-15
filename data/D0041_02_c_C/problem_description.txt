@@ -1,0 +1,5 @@
+A household needs to schedule its electricity consumption based on uncertain power availability.  
+The decision variable is the planned power consumption level per minute for the next hour.
+The objective is to minimize the deviation between planned and actual consumption, with equal penalty coefficients of 1 for both overuse and underuse.
+The consumption level per minute must be non-negative.
+The actual power consumption per minute is uncertain throughout the hour.

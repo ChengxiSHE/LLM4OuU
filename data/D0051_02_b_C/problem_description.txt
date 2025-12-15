@@ -1,0 +1,5 @@
+The power station must plan its daily energy procurement to meet fluctuating consumption needs efficiently.  
+The decision variable is the daily energy procurement amount, which must be determined for the next 30 days.
+The objective is to minimize total procurement cost, with overuse weighted at 2 and underuse penalties weighted at 1.
+Daily energy procurement must be non-negative to ensure operational feasibility.
+The actual daily power consumption is uncertain and derived from historical data.

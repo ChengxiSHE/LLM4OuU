@@ -1,0 +1,1 @@
+This dataset describes the household electric power consumption of a family in America per minute, comprising 1440 rows and 4 columns. Each row represents the power consumed during the corresponding minute. Except for the last column representing consumption, all other columns represent time dimensions, including day, hour, and minute.

@@ -1,0 +1,1 @@
+This data is a 7×1 vector representing the traffic flow for each hour of the day.

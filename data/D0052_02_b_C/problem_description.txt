@@ -1,0 +1,5 @@
+The power station must schedule its daily power generation to meet uncertain demand while minimizing operational costs.  
+The decision variable is the daily power generation amount, planned for each day of the upcoming month.
+The objective is to minimize the total cost, comprising generation cost with a weight of 1 and shortage penalty cost with a weight of 2.
+The daily power generation must be non-negative.
+The daily power consumption is uncertain and based on historical data.

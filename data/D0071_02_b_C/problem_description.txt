@@ -1,0 +1,5 @@
+The power station in Sikkim needs to plan monthly power generation to meet consumption needs, utilizing historical daily power consumption records.
+The decision variable is the daily power generation quantity, defined for next month in the planning horizon.
+The objective is to minimize total operating costs, including a linear generation cost coefficient of 5 per unit and a shortage penalty coefficient of 10 per unit, summed over all days.
+The total generation quantity for a month must not exceed the maximum capacity limit of 100 units.
+The actual monthly power consumption is uncertain.

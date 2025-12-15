@@ -1,0 +1,1 @@
+This dataset provides overall volume data for a supply chain product, consisting of 343 rows and 4 columns. Each row represents the volume for a corresponding date. Apart from the last column which represents the volume, all other columns represent the time dimension, including date, month and year.

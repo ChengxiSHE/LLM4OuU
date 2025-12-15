@@ -1,0 +1,4 @@
+The power station must plan its daily power generation to meet uncertain consumption demands while minimizing operational costs.  
+The decision variable is the daily power generation, planned for each day of the month.
+The objective is to minimize total cost, comprising a generation cost coefficient of 50 $/MWh and a penalty coefficient of 80 $/MWh for any unmet demand.
+Daily power generation must be non-negative and not exceed the maximum capacity of 90 MWh.

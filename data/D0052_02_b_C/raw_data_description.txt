@@ -1,0 +1,2 @@
+This dataset describes the power consumption of a power station in Uttarakhand for each day, comprising 240 rows and 4 columns. Each row represents the power consumed on the corresponding date. Except for the last column representing consumption, all other columns represent time dimensions, including day, month, and year.
+

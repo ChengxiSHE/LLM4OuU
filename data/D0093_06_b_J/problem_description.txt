@@ -1,0 +1,5 @@
+The public health department needs to plan weekly chickenpox vaccine allocation for Budapest for the next 52 weeks. 
+The decision variable is the weekly number of vaccine doses to allocate. 
+The objective is to minimize the total cost, comprising vaccine procurement cost (50 currency units per dose) and outbreak penalty cost (300 currency units per unprevented case). 
+The weekly vaccine allocation must satisfy: minimum of 100 doses and maximum of 180 doses. 
+The actual weekly chickenpox case count is uncertain, based on historical outbreak data.

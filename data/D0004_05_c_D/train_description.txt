@@ -1,0 +1,1 @@
+The empirical data consists of a 24-row, 362-column data matrix. Each row represents an hour, and each column represents a day. Therefore, each data point corresponds to the demand for each hour of the day.
