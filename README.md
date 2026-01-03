@@ -13,5 +13,6 @@ Set the environment variable: you need to change your OPENAI_API_KEY in config.p
 
 #### Run the experiment
 <main.py> 
-you can change the "method", "data_dir" and "model" respectively. Please remember to update config.py file and agent file when modifying the mod<img width="3982" height="1980" alt="workflow" src="https://github.com/user-attachments/assets/47c061fd-2067-4195-94c7-41942b243ddc" />
-el to meet the format requirements of different APIs.
+you can change the "method", "data_dir" and "model" respectively. Please remember to update config.py file and agent file when modifying the model to meet the format requirements of different APIs.
+
+<img width="3982" height="1980" alt="workflow" src="https://github.com/user-attachments/assets/47c061fd-2067-4195-94c7-41942b243ddc" />
