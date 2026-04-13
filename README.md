@@ -1,7 +1,7 @@
 This repository contains the official implementation for paper "Crossroads of Optimization under Uncertainty: How to Choose the Optimal Model"
 
 #### Notice
-We provide a first-order moment method here, but it is not mentioned in the paper. This is because the first-order moment method can be transformed into box RO.
+We provide a first-order moment method here, but it is not mentioned in the paper. This is because the first-order moment method can be transformed into box RO in decoupled scenario.
 
 #### Installation
 ```
