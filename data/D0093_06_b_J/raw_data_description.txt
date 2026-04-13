@@ -1,1 +1,0 @@
-This dataset contains weekly chickenpox case counts in Budapest, Hungary from 2005-2015 , comprising 522 rows and 4 columns. Each row represents the reported cases in Budapest for a specific week. Except for the last column representing case counts, all other columns represent time dimensions, including year, month, and week. 

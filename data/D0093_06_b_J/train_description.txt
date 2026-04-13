@@ -1,1 +1,0 @@
-The empirical data consists of a 52-row, 9-column data matrix. Each row represents a week within the 52-week planning horizon, and each column represents a historical 52-week case sequence. Therefore, each data point corresponds to the weekly chickenpox case count for a specific historical sequence and week of the planning period.

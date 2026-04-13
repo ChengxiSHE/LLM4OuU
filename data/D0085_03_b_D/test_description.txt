@@ -1,1 +1,0 @@
-This data is a 4×1 vector representing the specificized weekly lowest prices are applicable for each year and each month.

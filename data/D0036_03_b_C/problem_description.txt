@@ -1,2 +1,0 @@
-The company must determine daily production volumes to meet uncertain customer demand while minimizing operational costs. The decision variable is the daily production quantity planned for each of the next a month.
-The objective is to minimize total production cost, modeled as a linear function with a unit cost coefficient of 50 per unit produced. The daily production quantity must be non-negative and not exceed the maximum capacity of 1000 units per day. The uncertain parameter is the daily customer demand volume, which influences cost outcomes.

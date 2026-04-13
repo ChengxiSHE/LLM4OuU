@@ -1,1 +1,0 @@
-This data is a 12×1 vector representing the price for the middle day of the month.

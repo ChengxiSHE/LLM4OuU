@@ -1,5 +1,0 @@
-The power station must plan daily power generation to meet uncertain consumption demands while minimizing operational costs.  
-The decision variable is the daily power generation amount, planned for each day of the next month.
-The objective is to minimize the total cost of generation and potential shortfall, with generation cost coefficient 0.8 and shortfall penalty coefficient 1.2.
-The daily generation must at least meet a minimum safety level of 140 MWh.
-The daily power consumption is uncertain, based on historical data patterns.

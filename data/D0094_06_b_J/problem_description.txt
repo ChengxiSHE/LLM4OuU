@@ -1,5 +1,0 @@
-The public health department needs to plan weekly chickenpox vaccine allocation for Csongrad for the next 52 weeks. 
-The decision variable is the weekly number of vaccine doses to allocate. 
-The objective is to minimize the total cost, comprising vaccine procurement and administration cost (30 currency units per dose) and outbreak penalty cost (200 currency units per unprevented case). 
-The weekly vaccine allocation must satisfy: minimum of 50 doses and maximum of 120 doses. 
-The actual weekly chickenpox case count is uncertain, based on historical outbreak data.

@@ -1,5 +1,0 @@
-The power station must plan daily energy generation to meet uncertain demand while minimizing operational costs over the next 30 days.  
-The decision variable is the daily energy production level, which must be scheduled for each of the 30 days.
-The objective is to minimize total generation cost, comprising a generation cost coefficient of $50 per MWh and a penalty coefficient of $100 per MWh for any shortage.
-The daily energy production must be non-negative and cannot exceed the station's maximum capacity of 20 MWh per day.
-The actual daily power consumption is uncertain and affects the cost calculation.

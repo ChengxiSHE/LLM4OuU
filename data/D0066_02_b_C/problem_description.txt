@@ -1,5 +1,0 @@
-The power station must plan its daily energy generation to meet uncertain consumption while minimizing operational costs.  
-The decision variable is the daily energy generation amount, planned each day for the next month.
-The objective is to minimize total cost, comprising a generation cost coefficient of 3 and a penalty cost coefficient of 7 for deviations from actual consumption.
-Daily energy generation must be non-negative.
-The daily power consumption is uncertain, based on historical data.

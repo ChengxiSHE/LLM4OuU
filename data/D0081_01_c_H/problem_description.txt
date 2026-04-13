@@ -1,5 +1,0 @@
-A soybean trader needs to deploy a total of $2 million in capital to the soybean futures market over the next 30 trading days to achieve its investment mandate. The trader must determine the daily investment quantities to fully utilize this capital while managing price fluctuation risks.
-The decision variable is the daily investment quantity in soybean futures contracts.
-The objective is to maximize the risk-adjusted total return, measured by maximizing the Sharpe ratio using a 2% annualized risk-free rate. This goal balances the expected profit against the volatility risk derived from historical soybean futures price movements.
-The daily investment quantity must be non-negative and must not exceed a $100,000 budget limit. Additionally, the investment strategy must maintain maximum drawdown below 10% and ensure the 95% Value-at-Risk remains under $150,000 throughout the investment period.
-The uncertain parameter is the daily soybean futures price change. The historical price data is used to model the uncertainty in future price movements and to estimate the volatility for risk-adjusted return optimization.

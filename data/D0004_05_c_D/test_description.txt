@@ -1,1 +1,0 @@
-This data is a 24×1 vector representing the demand for each hour of the day.

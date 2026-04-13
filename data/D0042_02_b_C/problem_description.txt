@@ -1,5 +1,0 @@
-A household aims to manage its daily electricity consumption by setting a target usage level for each minute.  
-The decision variable is the electricity consumption target per minute, planned for next hour.
-The objective is to minimize the deviation from actual consumption, with overuse weighted at 2 and underuse penalties weighted at 1.
-The target consumption per minute must be non-negative.
-The actual electricity consumption per minute is uncertain.

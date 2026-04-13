@@ -1,1 +1,0 @@
-This dataset describes the daily sales situation of a large retail supermarket in Brazil, consisting of 937 rows and 4 columns. Each row represents the sales volume for the corresponding date. Apart from the last column which represents the sales volume, all other columns represent the time dimensions, including date, month and year.

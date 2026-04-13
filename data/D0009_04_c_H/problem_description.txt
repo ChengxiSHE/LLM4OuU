@@ -1,5 +1,0 @@
-An investment firm aims to optimize its Bitcoin trading strategy by determining the daily allocation of capital to Bitcoin purchases over a 30-day planning horizon, based on uncertain future price movements.
-The decision variable is the daily investment amount in Bitcoin, denoted as \( x_t \), representing the USD allocated each day.
-The objective is to maximize the total expected return over the planning horizon, formulated as a linear function \( \sum_{t=1}^{T} \alpha_t \cdot x_t \), where \( \alpha_t \) is the uncertain daily return coefficient.
-The daily investment amount must be non-negative and cannot exceed the firm's total available capital \( C \), i.e., \( 0 \leq x_t \leq C \).
-The uncertain parameter is the daily Bitcoin closing price, which directly influences the return coefficients in the objective function.

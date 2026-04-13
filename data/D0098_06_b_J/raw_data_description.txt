@@ -1,1 +1,0 @@
-This dataset contains weekly COVID-19 mortality statistics of Florida from CDC, comprising 543 rows and 4 columns. Each row represents the observed death number for Florida during the week on the corresponding week. Except for the last column representing observed number, all other columns represent time dimensions, including year, month, and day. 

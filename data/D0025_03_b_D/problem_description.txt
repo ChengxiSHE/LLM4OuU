@@ -1,2 +1,0 @@
-A supplier must decide its daily production quantity to fulfill incoming orders from retailers. The decision variable is the number of units produced each day for the next month. The objective is to minimize total cost, with a production cost coefficient of 1 and a fulfillment penalty coefficient of 1 for deviation from actual orders. The daily production quantity must be non-negative. The actual daily order quantity from retailers is uncertain.
-

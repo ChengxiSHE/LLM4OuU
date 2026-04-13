@@ -1,1 +1,0 @@
-These empirical data form a 4-row by 45-column data matrix. Each row represents a week, and each column represents a year and month. Therefore, each data point corresponds to the specific weekly price applicable to each year and each month.

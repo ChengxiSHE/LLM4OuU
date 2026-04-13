@@ -1,6 +1,0 @@
-The health department needs to allocate medical resources for treating male COVID-19 patients based on the number of new confirmed cases. 
-The decision variable is the daily quantity of medical resource units allocated for male patients over the next 30 days. 
-The objective is to minimize the total cost, comprising resource allocation cost (50 currency units per unit) and shortage penalty cost (200 currency units per shortage unit). 
-The daily resource allocation must satisfy: minimum of 10 units and maximum of 50 units. 
-The daily number of new confirmed male COVID-19 patients is uncertain, based on historical case data.
-

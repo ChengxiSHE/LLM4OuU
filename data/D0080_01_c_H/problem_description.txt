@@ -1,5 +1,0 @@
-A heating oil supplier must procure a total of 200,000 barrels of heating oil from futures markets over the next 30 days to fulfill seasonal supply contracts. The supplier must determine the daily procurement schedule to acquire this fixed quantity while managing price volatility risks.
-The decision variable is the daily heating oil procurement volume from futures markets.
-The objective is to minimize the risk-adjusted total procurement cost, measured by minimizing the Conditional Value-at-Risk (CVaR) at the 90% confidence level, which balances the expected cost against the extreme budgetary risk arising from historical price volatility.
-The daily procurement volume must be non-negative and must not exceed 10,000 barrels due to storage capacity limits. Additionally, the procurement strategy must maintain total costs below $25 million and ensure the 90% Cost-at-Risk remains under $2 million throughout the procurement period.
-The uncertain parameter is the daily heating oil futures closing price. The historical price data is used to model the uncertainty in future price movements and to estimate the volatility for risk assessment.

@@ -1,1 +1,0 @@
-This dataset contains daily heating oil futures prices with comprehensive market data including closing price, comprising 5977 rows and 4 columns.Each row represents the heating oil closing price on the corresponding date. Except for the last column representing closing price, all other columns represent time dimensions, including day, month, and year.

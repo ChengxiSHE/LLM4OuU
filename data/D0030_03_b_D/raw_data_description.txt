@@ -1,1 +1,0 @@
-This dataset describes the daily sales situation of the retail supply chain, consisting of 1236 rows and 4 columns. Each row represents the sales volume for the corresponding date. Apart from the last column which represents the sales volume, all other columns represent the time dimension, including date, month and year.

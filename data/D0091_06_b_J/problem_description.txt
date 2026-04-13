@@ -1,5 +1,0 @@
-Health authorities need to plan the allocation of COVID-19 testing resources for the next 30 days.
-The decision variable is the daily number of test kits to allocate.
-The objective is to minimize the total cost, comprising testing cost (50 currency units per test kit) and penalty cost for undetected cases (1000 currency units per undetected case).
-The daily testing allocation must satisfy: minimum of 100 test kits and maximum of 800 test kits.
-The number of new confirmed COVID-19 cases each day is uncertain, based on historical data distribution.

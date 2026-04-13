@@ -1,5 +1,0 @@
-The power plant needs to determine daily power generation levels to meet uncertain consumption demands.  
-The decision variable is the daily power generation amount, planned for each day of the upcoming month.  
-The objective is to minimize total generation cost, with overuse weighted at 1 and underuse penalties weighted at 3. 
-The daily generation must be non-negative to ensure operational feasibility.  
-The daily power consumption is uncertain, based on historical data patterns.

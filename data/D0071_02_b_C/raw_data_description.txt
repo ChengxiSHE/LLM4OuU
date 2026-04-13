@@ -1,2 +1,0 @@
-This dataset describes the power consumption of a power station in Sikkim for each day, comprising 300 rows and 4 columns. Each row represents the power consumed on the corresponding date. Except for the last column representing consumption, all other columns represent time dimensions, including day, month, and year.
-

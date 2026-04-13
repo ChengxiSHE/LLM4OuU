@@ -1,1 +1,0 @@
-This data is a 7×1 vector representing the sales volume for each day of the coming week.

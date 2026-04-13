@@ -1,1 +1,0 @@
-This data is a 20×1 vector representing the daily charging demand for each station.

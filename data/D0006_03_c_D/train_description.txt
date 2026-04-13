@@ -1,1 +1,0 @@
-The empirical data consists of a 7-row, 144-column data matrix. Each row represents an day, and each column represents a week. Therefore, each data point corresponds to the sales volume for each day of the week.

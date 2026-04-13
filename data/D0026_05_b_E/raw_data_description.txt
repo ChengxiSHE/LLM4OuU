@@ -1,3 +1,0 @@
-This dataset describes the daily rented bike in Washington DC, comprising
-229 rows and 4 columns. Each row represents the rented bike on the corresponding date.
-Except for the last column representing demands, all other columns represent time dimensions, including day, month, and year.

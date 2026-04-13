@@ -1,3 +1,0 @@
-This dataset describes the daily gas consumption in Ireland, comprising
-336 rows and 4 columns. Each row represents the power consumption on the corresponding date.
-Except for the last column representing consumption, all other columns represent time dimensions, including day, month, and year.

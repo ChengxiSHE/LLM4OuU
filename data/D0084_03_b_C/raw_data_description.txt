@@ -1,1 +1,0 @@
-This dataset provides the highest price of a supply chain product for each day, consisting of 343 rows and 4 columns. Each row represents the highest price for the corresponding date. Apart from the last column which represents the highest price, all other columns represent the time dimension, including date, month and year.

@@ -1,1 +1,0 @@
-These empirical data form a 12-row by 12-column data matrix. Each row represents the midpoint of a certain month, and each column represents a year. Therefore, each data point corresponds to the market price of a specific month and date within a year.

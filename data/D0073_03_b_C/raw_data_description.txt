@@ -1,1 +1,0 @@
-This dataset provides the lowest price of a supply chain product on a daily basis, consisting of 343 rows and 4 columns. Each row represents the lowest price for a corresponding date. Apart from the last column which represents the lowest price, all other columns represent the time dimension, including date, month and year.

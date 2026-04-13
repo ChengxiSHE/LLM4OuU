@@ -1,1 +1,0 @@
-This data is a 30×1 vector representing the daily heating oil closing price for each day of the most recent 30-day period.

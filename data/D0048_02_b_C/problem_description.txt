@@ -1,5 +1,0 @@
-The power plant needs to determine daily power generation levels to meet uncertain consumption demands while minimizing operational costs.  
-The decision variable is the daily power generation quantity, which must be planned for the next 30 days.
-The objective is to minimize total generation cost, comprising generation cost with a coefficient of 3 and shortage penalty with a coefficient of 5.
-The daily generation quantity must be non-negative.
-The daily power consumption is uncertain based on historical data patterns.

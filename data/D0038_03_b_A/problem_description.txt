@@ -1,3 +1,0 @@
-A farmer must decide the weekly beetroot planting area to maximize profit based on fluctuating market prices.
-The decision variable is the weekly planting area in hectares for beetroots over the next month. The objective is to maximize total expected profit, calculated as price per ton times yield per hectare, with a weighting coefficient of 1 for revenue. The weekly planting area must be non-negative and cannot exceed 50 hectares due to land availability.
-The market price per ton of beetroots each week is uncertain.

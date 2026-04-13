@@ -1,3 +1,0 @@
-This dataset describes the daily water consumption, comprising
-366 rows and 4 columns. Each row represents the consumed water on the corresponding date.
-Except for the last column representing consumption, all other columns represent time dimensions, including day, month, and year.

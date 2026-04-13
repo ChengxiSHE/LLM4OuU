@@ -1,5 +1,0 @@
-The Florida civil affairs department needs to plan weekly funeral service allocation based on COVID-19 mortality trends for the next 52 weeks. 
-The decision variable is the weekly number of funeral service capacity units to allocate. 
-The objective is to minimize the total operational cost, comprising service operational cost (180 currency units per unit) and capacity insufficiency penalty cost (4500 currency units per unserved death case). 
-The weekly service allocation must satisfy: minimum of 3500 units and maximum of 4300 units. 
-The weekly observed COVID-19 death count is uncertain, based on historical mortality data.

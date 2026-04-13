@@ -1,1 +1,0 @@
-This dataset describes the household electric power consumption of a family in the UK per minute, comprising 240 rows and 4 columns. Each row represents the power consumed during the corresponding minute. Except for the last column representing consumption, all other columns represent time dimensions, including day, hour, and minute.

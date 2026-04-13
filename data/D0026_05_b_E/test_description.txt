@@ -1,1 +1,0 @@
-This data is a 30×1 vector representing the daily rented bike for each day of the month.

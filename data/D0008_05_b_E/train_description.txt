@@ -1,1 +1,0 @@
-The empirical data consists of a 24-row, 92-column data matrix. Each row represents an hour, and each column represents a day. Therefore, each data point corresponds to the bicycle demand for each hour of the day.

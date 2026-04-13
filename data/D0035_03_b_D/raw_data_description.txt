@@ -1,1 +1,0 @@
-This dataset provides the Sales Volume of a certain fast-moving consumer goods, consisting of 365 rows and 4 columns. Each row represents the Sales Volume for the corresponding date. Apart from the last column which represents the Sales Volume, all other columns represent the time dimension, including date, month and year.

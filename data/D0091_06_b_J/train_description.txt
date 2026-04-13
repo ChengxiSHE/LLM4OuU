@@ -1,1 +1,0 @@
-The empirical data consists of a 30-row, 4-column data matrix. Each row represents a day within the 30-day response period, and each column represents a historical 30-day case sequence. Therefore, each data point corresponds to the daily new confirmed COVID-19 cases for a specific sequence and day of the response horizon.

@@ -1,5 +1,0 @@
-The power station needs to determine daily power generation levels to meet uncertain consumption demands while minimizing operational costs.  
-The decision variable is the daily power generation quantity, planned for the next 30 days.
-The objective is to minimize the total cost over 30 days, comprising a generation cost coefficient of 0.8 and a shortage penalty coefficient of 1.2, both linear in the decision variable.
-The daily generation quantity must be non-negative.
-The daily power consumption is uncertain, based on historical data patterns.

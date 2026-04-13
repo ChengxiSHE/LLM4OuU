@@ -1,1 +1,0 @@
-The empirical data consists of a 5-row, 3-column data matrix. 

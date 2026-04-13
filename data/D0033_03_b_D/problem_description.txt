@@ -1,3 +1,0 @@
-A retailer must determine daily inventory for a fast-moving consumer good to maximize revenue while considering uncertain demand. The decision variable is the daily inventory of the product, planned for the next 30 days.
-The objective is to maximize total revenue, which contain the revenue of saling goods with coefficient of 1 and the overflow cost with coefficient of 5. The daily inventory must be non-negative.
-The daily demand volume is uncertain and derived from historical data.

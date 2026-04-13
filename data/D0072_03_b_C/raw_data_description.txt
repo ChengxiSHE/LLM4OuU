@@ -1,1 +1,0 @@
-This dataset provides price data for a supply chain product, , consisting of 343 rows and 4 columns. Each row represents the price for a corresponding date. Apart from the last column which represents the price, all other columns represent the time dimension, including date, month and year..

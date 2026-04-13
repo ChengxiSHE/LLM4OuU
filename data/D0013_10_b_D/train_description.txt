@@ -1,1 +1,0 @@
-The empirical data consists of a 7-row, 41-column data matrix. Each row represents a day, and each column represents a week. Therefore, each data point corresponds to the daily demand.

@@ -1,1 +1,0 @@
-The empirical data consists of a 24-row, 12-column data matrix. Each row represents an hour, and each column represents a day. Therefore, each data point corresponds to the serum quinidine concentration of patient for each hour of the day.

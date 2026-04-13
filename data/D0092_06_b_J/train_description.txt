@@ -1,1 +1,0 @@
-The empirical data consists of a 30-row, 5-column data matrix. Each row represents a specific day within the 30-day planning horizon, and each column represents a historical 30-day patient arrival sequence. Therefore, each data point corresponds to the daily number of arriving patients for a specific historical sequence and day of the planning period.
