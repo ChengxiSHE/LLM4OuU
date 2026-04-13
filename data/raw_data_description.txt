@@ -1,0 +1,1 @@
+This dataset describes the daily power consumption of a power plant in India, comprising 503 rows and 4 columns. Each row represents the power consumed on the corresponding date. Except for the last column representing consumption, all other columns represent time dimensions, including day, month, and year. 
